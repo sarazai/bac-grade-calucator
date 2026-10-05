@@ -9,4 +9,4 @@ A responsive, multi-language web application built with React and Tailwind CSS d
 - Score simulation for regional and national exams
 
 ## Live Demo
-[Access the Live Application Here](https://moroccan-baccalaurea-vu0p.bolt.new)
+[Access the Live Application Here(https://moroccan-baccalaurea-vu0p.bolt.host)
